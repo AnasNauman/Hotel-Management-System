@@ -1,5 +1,5 @@
 # Project Description
-C++ implementation of Hotel Management System using BGI graphics as GUI,utilising Object Oriented Programming Approach.
+C++ implementation of Hotel Management System using WinBGI graphics as GUI,utilising Object Oriented Programming Approach.
 A detailed and explicate version of Hotel Managerial System which seeks to ease the management process for the Employee and Customers as well.
 Simplifying the organizational work of hotel as well as maintaining accounts across domains of services and needs; this project aims to abate the operational costs of Hotel.
 
